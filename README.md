@@ -1,6 +1,10 @@
 
 # **Exploratory Data Analysis (EDA) Report: Chicago Crime Data**
 
+## 📂 Download the PBIX File
+[Click here to download the full Power BI Report](https://drive.google.com/file/d/1874bEhPUpiR4xgMc3Q6ZqmX_EnUvvMc1/view?usp=sharing)
+
+
 ## **1. Overview**
 
 The dataset contains records of crimes committed in Chicago, including information such as location, time, type of crime, arrest details, and more. This report explores the dataset to uncover insights about crime patterns, hotspots, trends, and other aspects crucial for understanding and improving community safety.
